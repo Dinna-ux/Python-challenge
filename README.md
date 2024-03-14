@@ -2,13 +2,13 @@ PROJECT TITLE****PyBank and PyPoll**
 
 The project uploaded here comprises of two parts as named on the project title. I use notebook lab to create a Python script to analyse the financial records of your company based on the budget_data csv file provided. I perfomed different tasks as mentioned below.
 
-Technology used
+***Technology used***
 
 Python
 Jupyter Lab
 GitBash
 
-PyPoll
+***PyPoll***
 Steps taken
 
 The first step was to intitiliase import os, a command that is used to allow the code to Interact with the operating system
@@ -17,7 +17,7 @@ The next step was to create a complete list of candidates who received votes, ad
 Printing the total number of votes each candidate won including the winner of the election based on the popular vote and formating the analysis.
 Lastly I created a text file containing Total Votes, each candidate’s total votes and percent of votes, and the winner
 
-PyBank
+***PyBank***
 
 Steps taken
 
